@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Yuhuan Qiu.
 
-I study Computer Science mostly at Cornell University in Ithaca, NY.
+I study Computer Science mostly at Cornell in Ithaca, NY.
 
 ### Contact me
 
