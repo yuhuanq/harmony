@@ -4,16 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
+### CChat // Club Caml
+
+A Slack/IRC inspired instant messaging client and server application using the STOMP
+messaging protocol. Designed and built from the ground up. Extended features
+include a chatbot and an extensible game interface.
+
 ### 2584
 
 A Fibonacii version of the popular 2048 game. Implemented with monads. Text UI.
 Web/GUI version in consideration.
-
-### Club Caml
-
-A Slack/IRC inspired instant messaging client and server system using the STOMP
-messaging protocol built from scratch. Extended features include a chatbot and
-an extensible game interface.
 
 ### Pandorabots API Wrapper
 
