@@ -4,12 +4,12 @@ title: About me
 permalink: /about/
 ---
 
-Hello, I'm Yuhuan Qiu.
+Hi.
 
-I study Computer Science mostly at Cornell in Ithaca, NY.
+I study Computer Science at Cornell in Ithaca, NY.
 
-Currently, I'm a TA for CS 2800 - Discrete Structures, and an undergraduate
-programmer and researcher in computational biology.
+I'm on the course staff for CS 3110 and I've TA'd CS 2800 in the past. I've
+also been involved in undergraduate research in computational biology.
 
 ### Contact me
 

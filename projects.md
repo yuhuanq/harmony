@@ -3,12 +3,16 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+### PortOS
+
+Building a tiny OS in C that includes non-preemptive and preemptive
+multithreading, UDP and TCP networking, and a filesystem.
 
 ### CChat // Club Caml
 
-A Slack/IRC inspired instant messaging client and server application using the STOMP
-messaging protocol. Designed and built from the ground up. Extended features
-include a chatbot and an extensible game interface.
+An Asynchronous Instant Messaging System built with lwt cooperative threads,
+implementing the STOMP protocol.  Extended features include a chatbot and an
+extensible game interface.
 
 ### 2584
 
